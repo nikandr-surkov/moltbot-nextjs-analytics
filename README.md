@@ -1,7 +1,9 @@
 # 🤖 Moltbot (Clawdbot) Analytics Integration for Next.js
 
 
-https://github.com/user-attachments/assets/103535e6-9e7a-49e3-b345-d71206485bef
+
+https://github.com/user-attachments/assets/98b72c0a-76ce-49fa-958f-6dbc0a9a78e8
+
 
 
 A reference implementation demonstrating how to connect **AI Agents** (like Moltbot/Clawdbot) to a **Next.js** application for real-time data analytics.
